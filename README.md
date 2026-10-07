@@ -14,7 +14,7 @@ I enjoy turning complex technical problems into something that can be understood
 HDFS metadata analysis, storage utilization, file-size distribution, retention analysis, and storage optimization.
 
 **Azure Databricks Data Engineering**
-Course project focused on data engineering and analytics using Azure Databricks.
+Azure Databricks & Spark For Data Engineers: Hands-on Project
 
 ### Currently Exploring
 
